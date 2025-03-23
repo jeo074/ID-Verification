@@ -5,57 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f46b640-83ec-4a2b-b886-6f0aff51d9ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78593026-a8c3-4b6d-b610-bed824ea3854.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78593026-a8c3-4b6d-b610-bed824ea3854/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78593026-a8c3-4b6d-b610-bed824ea3854/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78593026-a8c3-4b6d-b610-bed824ea3854/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78593026-a8c3-4b6d-b610-bed824ea3854/storage_v2/_src_/database/postgres.edMnLQ/schema/philsys.0mcs3A.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/78593026-a8c3-4b6d-b610-bed824ea3854/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/PhylSysIds.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-backend/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-backend/template/pnid_template.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-backend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/node_modules/@rollup/rollup-win32-x64-msvc/rollup.win32-x64-msvc.node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/node_modules/@swc/core-win32-x64-msvc/swc.win32-x64-msvc.node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/node_modules/vite/node_modules/@esbuild/win32-x64/esbuild.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/public/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/src/fx.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philid-validator/vite.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fx.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +43,12 @@
     &quot;assignee&quot;: &quot;jeo074&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jeo074/ID-Verification.git",
-    "accountId": "00d91ff9-f7a6-4fa7-b741-5058501b5dc4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jeo074/ID-Verification.git&quot;,
+    &quot;accountId&quot;: &quot;00d91ff9-f7a6-4fa7-b741-5058501b5dc4&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -303,6 +254,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
